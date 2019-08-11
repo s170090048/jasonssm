@@ -1,0 +1,8 @@
+com\jason\jason_ssm\domain\SysLog.class
+com\jason\jason_ssm\domain\Role.class
+com\jason\jason_ssm\domain\Orders.class
+com\jason\jason_ssm\domain\Traveller.class
+com\jason\jason_ssm\domain\Product.class
+com\jason\jason_ssm\domain\UserInfo.class
+com\jason\jason_ssm\domain\Member.class
+com\jason\jason_ssm\domain\Permission.class

@@ -1,0 +1,8 @@
+com\jason\jason_ssm\dao\IProductDao.class
+com\jason\jason_ssm\dao\IRoleDao.class
+com\jason\jason_ssm\dao\IPermissionDao.class
+com\jason\jason_ssm\dao\IOrderDao.class
+com\jason\jason_ssm\dao\ITraverlerDao.class
+com\jason\jason_ssm\dao\IUserDao.class
+com\jason\jason_ssm\dao\IMemberDao.class
+com\jason\jason_ssm\dao\ISysLogDao.class
